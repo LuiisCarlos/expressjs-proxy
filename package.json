@@ -1,0 +1,17 @@
+{
+  "name": "expressjs-proxy",
+  "version": "1.0.0",
+  "description": "ExpressJS Proxy",
+  "license": "ISC",
+  "author": "LuiisCarlos",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}
